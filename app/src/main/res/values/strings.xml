@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_name">CallOfDutyGuide</string>
+    <string name="call_of">Call of duty ...</string>
+
+    <string name="privacy_policy_link">https://www.google.com/</string>
+
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="m_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="m_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="m_rewarded">ca-app-pub-3940256099942544/5224354917</string>
+
+
+    <string name="text_about">about app</string>
+
+
+    <string-array name="cover_1">
+        <item>The history of Call of Duty box art. By Matt Cundy November text1.</item>
+        <item>The history of Call of Duty box art. By Matt Cundy November text2.</item>
+        <item>The history of Call of Duty box art. By Matt Cundy November text3.</item>
+        <item>The history of Call of Duty box art. By Matt Cundy November text4.</item>
+    </string-array>
+
+    <string-array name="cover_2">
+        <item></item>
+        <item>The first game from developer Infinity Ward. The first Call of Duty in the series. And - consequently </item>
+        <item>Call The first game from developer Infinity Ward. The first Call of Duty in the series. And - consequently </item>
+        <item>The first game from developer Infinity Ward. The first Call of Duty in the series. And - consequently </item>
+    </string-array>
+
+    <string-array name="cover_3">
+        <item>Call Can you see the big red one? Yes, there it is on the arm of cover star Sergeant Roland Roger of the US 1st Infantry Division. </item>
+        <item>Call Can you see the big red one? Yes, there it is on the arm of cover star Sergeant Roland Roger of the US 1st Infantry Division. </item>
+        <item>Call Can you see the big red one? Yes, there it is on the arm of cover star Sergeant Roland Roger of the US 1st Infantry Division. </item>
+        <item>Call Can you see the big red one? Yes, there it is on the arm of cover star Sergeant Roland Roger of the US 1st Infantry Division. </item>
+
+    </string-array>
+
+    <string-array name="cover_4">
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt1</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt2</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt3</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt4</item>
+    </string-array>
+
+    <string-array name="cover_5">
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt1</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt2</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt3</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt4</item>
+    </string-array>
+
+    <string-array name="cover_6">
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt1</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt2</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt3</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt4</item>
+    </string-array>
+
+    <string-array name="cover_7">
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt1</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt2</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt3</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt4</item>
+    </string-array>
+
+    <string-array name="cover_8">
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt1</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt2</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt3</item>
+        <item>Call of Duty YouTubers after a week-long scavenger hunt put on by txt4</item>
+    </string-array>
+
+
+</resources>
